@@ -7,3 +7,4 @@ description = "High-performance Ultralytics YOLO inference in Rust with ONNX Run
 # avoid re-reading the config on every call
 # guard against empty input
 # drop an unused branch
+# clarify the control flow
